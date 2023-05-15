@@ -1,0 +1,94 @@
+C:\Users\Vladik\source\repos\TestReload\bin\Debug\TestReload.exe.config
+C:\Users\Vladik\source\repos\TestReload\bin\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\TestReload\bin\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.csproj.AssemblyReference.cache
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.Form1.resources
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.Properties.Resources.resources
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.csproj.GenerateResource.cache
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.Loginka.resources
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.Uchet_Tovarov.resources
+C:\Users\Vladik\source\repos\TestReload\obj\Debug\TestReload.Add_Tovar.resources
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\bin\Debug\TestReload.exe.config
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\bin\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\bin\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.csproj.AssemblyReference.cache
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.Add_Tovar.resources
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.Properties.Resources.resources
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.Uchet_Tovarov.resources
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.csproj.GenerateResource.cache
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.Oblojka.resources
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.Reg.resources
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.Loginka.resources
+C:\Users\Vladik\source\repos\Cursovaya CRUD Sultanov\obj\Debug\TestReload.AdminPanel.resources
+C:\Users\Vladik\source\repos\Sklad System\bin\Debug\TestReload.exe.config
+C:\Users\Vladik\source\repos\Sklad System\bin\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Sklad System\bin\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.csproj.AssemblyReference.cache
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.Add_Tovar.resources
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.AdminPanel.resources
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.Loginka.resources
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.Oblojka.resources
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.Properties.Resources.resources
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.Reg.resources
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.Uchet_Tovarov.resources
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.csproj.GenerateResource.cache
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Sklad System\obj\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Sklad System — копия\bin\Debug\TestReload.exe.config
+C:\Users\Vladik\source\repos\Sklad System — копия\bin\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Sklad System — копия\bin\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.csproj.AssemblyReference.cache
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.Add_Tovar.resources
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.AdminPanel.resources
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.Info.resources
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.Loginka.resources
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.Oblojka.resources
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.Properties.Resources.resources
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.Reg.resources
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.Uchet_Tovarov.resources
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.csproj.GenerateResource.cache
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Sklad System — копия\obj\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Warehouse Master\bin\Debug\TestReload.exe.config
+C:\Users\Vladik\source\repos\Warehouse Master\bin\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Warehouse Master\bin\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.csproj.AssemblyReference.cache
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.Add_Tovar.resources
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.AdminPanel.resources
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.Info.resources
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.Loginka.resources
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.Oblojka.resources
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.Properties.Resources.resources
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.Reg.resources
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.Uchet_Tovarov.resources
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.csproj.GenerateResource.cache
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Warehouse Master\obj\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Warehouse Master — копия\bin\Debug\TestReload.exe.config
+C:\Users\Vladik\source\repos\Warehouse Master — копия\bin\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Warehouse Master — копия\bin\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.csproj.AssemblyReference.cache
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Add_Tovar.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.AdminPanel.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Info.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Loginka.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Oblojka.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Properties.Resources.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Reg.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Uchet_Tovarov.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.csproj.GenerateResource.cache
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.csproj.CoreCompileInputs.cache
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.exe
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.pdb
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Providers.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.Add_Provider.resources
+C:\Users\Vladik\source\repos\Warehouse Master — копия\obj\Debug\TestReload.csproj.ResolveComReference.cache

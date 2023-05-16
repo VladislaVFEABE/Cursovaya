@@ -52,7 +52,7 @@ namespace TestReload
             toolStripButton4.Enabled = _user.IsAdmin;
             toolStripLabel1.Enabled = _user.IsAdmin;
         }
-
+         /*создание колонок для таблицы datagridview*/
         private void CreateColumns()
         {
             dataGridView1.Columns.Add("id","id");
@@ -71,7 +71,7 @@ namespace TestReload
             textBox4.Text = "";
             textBox5.Text = "";
         }
-
+        /*передача параметров которые еще не использовались*/
         private void ReadSingleRows(DataGridView dgw, IDataRecord record)
         {
             dgw.Rows.Add(record.GetInt32(0), record.GetString(1), record.GetInt32(2), record.GetString(3), record.GetInt32(4), RowState.ModifedNew);
@@ -110,7 +110,7 @@ namespace TestReload
         {
 
         }
-
+         /*перенос данных из таблицы на поле "О заказе" */
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             selectedRow = e.RowIndex;
